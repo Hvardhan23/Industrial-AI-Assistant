@@ -92,6 +92,7 @@ GET /health
 Checks whether the API, prediction model, and vector database are loaded successfully.
 
 Future Improvements
+Front end
 Save and load the FAISS index instead of rebuilding it at startup.
 Add automated tests.
 Deploy the application on Google Cloud or AWS.
