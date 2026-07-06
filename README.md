@@ -89,7 +89,7 @@ Example Request
 }
 GET /health
 
-Checks whether the API, prediction model, and vector database are loaded successfully.
+Checks whether the API, prediction model, and vector database are loaded successfully...
 
 Future Improvements
 Front end
